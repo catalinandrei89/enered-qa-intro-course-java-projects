@@ -9,3 +9,12 @@ Repository-ul este un proiect MAVEN care contine mai multe module, fiecare fiind
 * va urma  
 
 Acest repository este gratuit si poate fi folosit de oricine, avand o licenta de tip "MIT License".
+
+License
+-------
+
+Copyright (c) 2017-2020 NEWHOUSE SOLUTIONS 
+
+Copyright (c) 2017-2020 UNIVOCAL
+
+Published under The MIT License, see [`LICENSE.md`](LICENSE.md)
