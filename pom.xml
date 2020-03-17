@@ -11,6 +11,7 @@
     <modules>
         <module>recapitulare101</module>
         <module>oop-masina</module>
+        <module>cofetarie-management-app</module>
     </modules>
 
     <properties>
