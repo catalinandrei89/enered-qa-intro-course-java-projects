@@ -12,6 +12,7 @@ Acest repository este gratuit si poate fi folosit de oricine, avand o licenta de
 
 License
 -------
+Copyright (c) 2020 Alex Fierascu
 
 Copyright (c) 2017-2020 NEWHOUSE SOLUTIONS 
 
