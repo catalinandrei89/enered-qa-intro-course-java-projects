@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 public class ExempluArrayLists {
 
-    private ArrayList<String> listaSefi = new ArrayList<String>();
+    private ArrayList<String> listaSefi = new ArrayList<>();
 
     public void adaugaNumeOmInListaSefi(String numeOm) {
         listaSefi.add(numeOm);
@@ -19,7 +19,7 @@ public class ExempluArrayLists {
         }
     }
 
-    private ArrayList<Om> listaOameniExtraordinari = new ArrayList<Om>();
+    private ArrayList<Om> listaOameniExtraordinari = new ArrayList<>();
 
     public void adaugaOmExtraordinarInLista(Om nouOmExtraordinar) {
         listaOameniExtraordinari.add(nouOmExtraordinar);

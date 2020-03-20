@@ -5,6 +5,8 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import java.util.ArrayList;
+
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
@@ -16,6 +18,7 @@ public class Client {
     private String adresa;
     private int varsta;
     private boolean clientFidel;
+    private ArrayList<ProdusCofetarie> listaProduseCofetarieClient = new ArrayList<>();
 }
 
 
