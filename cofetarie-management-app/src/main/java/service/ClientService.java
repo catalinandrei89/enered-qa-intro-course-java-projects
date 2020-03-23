@@ -10,6 +10,7 @@ public class ClientService {
     private double sumaDePlatit = 0;
     private Client clientulMeu = new Client();
 
+
     public void adaugareProdusCofetarieInCosulDeCumparaturi(ProdusCofetarie produsCofetarieNou) {
         clientulMeu.getListaProduseCofetarieClient().add(produsCofetarieNou);
         System.out.println("Produsul adaugat are pretul de " + produsCofetarieNou.getPretProdusCofetarie() + " RON");
